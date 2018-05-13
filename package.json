@@ -1,5 +1,5 @@
 {
-    "title": "Clean Blog Jekyll",
+    "title": "一丁顶风跑",
     "name": "startbootstrap-clean-blog-jekyll",
     "version": "4.0.0",
     "description": "Clean Blog is a Medium inspired blog theme for Bootstrap.",
@@ -17,13 +17,13 @@
         "email": "feedback@startbootstrap.com"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "Brenda Zh",
     "contributors": [
-        "David Miller (http://davidmiller.io/)"
+        "Brenda Zh"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll.git"
+        "url": "https://github.com/yidingdingfengpao/yiding_blog.git"
     },
     "dependencies": {
         "bootstrap": "4.0.0",
